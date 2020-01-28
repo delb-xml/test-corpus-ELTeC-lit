@@ -1,0 +1,2 @@
+# ELTeC-lit
+Lithuanian texts
