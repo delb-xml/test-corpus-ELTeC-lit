@@ -2,16 +2,17 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader type="novelHeader">  <fileDesc>   <titleStmt>    
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LIT00005" xml:lang="lt">
+   <teiHeader>  <fileDesc>   <titleStmt>    
       <title> Viršininkai. Margas paveikslēlis. : ELTeC edition  </title>    
-      <author> KUDIRKA, VINCAS (1858-1999)   </author>  
+      <author> Kudirka, Vincas (1858-1999)   </author>  
       <respStmt> <resp>editor</resp>   <name>Vincas Grigas</name>    </respStmt>   </titleStmt>   
       <extent> <measure unit="words">15671</measure>  <measure unit="pages">68</measure>    </extent>   
-      <publicationStmt> <distributor>COST Action ELTeC</distributor>  <date when="2020-01-31"/>  <availability>   <licence target="https://creativecommons.org/licenses/by/4.0/"> Licenced under CC-BY 4.0 </licence>  </availability>    <ref target="https://www.epaveldas.lt/object/recordDescription/LNB/C1B0003504809"/>  </publicationStmt>   
-      <sourceDesc>    <bibl type="digitalSource">   <ref target="https://www.epaveldas.lt/object/recordDescription/LNB/C1B0003068314"> Viršininkai. Margas paveikslēlis. </ref>   <publisher>  E. Jagomasto sp. </publisher>    </bibl>  <bibl type="firstEdition">   <title>Viršininkai. Margas paveikslēlis.</title>   <publisher>E. Jagomasto sp.</publisher>   <pubPlace>Vilnius</pubPlace>   <date>1895</date>  </bibl>  </sourceDesc>  </fileDesc>  
-      <profileDesc xmlns:e="http://distantreading.net/eltec/ns">  <langUsage>   <language ident="lt" usage="100"/>  </langUsage>  <textDesc>   <e:authorGender key="M"/>   <e:canonicity key="small"/>   <e:size key="small"/>   <e:timeSlot key="T3"/>  </textDesc>  </profileDesc> 
-      <revisionDesc> <!-- revision information -->  </revisionDesc> </teiHeader>
+	   <publicationStmt> <p></p>  </publicationStmt>   
+      <sourceDesc>    <bibl type="digitalSource">   <ref target="https://www.epaveldas.lt/object/recordDescription/LNB/C1B0003068314"> Viršininkai. Margas paveikslēlis. </ref>   <publisher>  Lietuvos Nacionalinė M. Mažvydo biblioteka </publisher>    </bibl>  <bibl type="firstEdition">   <title>Viršininkai. Margas paveikslēlis.</title>   <publisher>E. Jagomasto sp.</publisher>   <pubPlace>Vilnius</pubPlace>   <date>1895</date>  </bibl>  </sourceDesc>  </fileDesc>  
+      <encodingDesc n="eltec-1"><p/></encodingDesc>
+	   <profileDesc xmlns:e="http://distantreading.net/eltec/ns">  <langUsage>   <language ident="lt" usage="100"/>  </langUsage>  <textDesc>   <e:authorGender key="M"/>   <e:canonicity key="small"/>   <e:size key="small"/>   <e:timeSlot key="T3"/>  </textDesc>  </profileDesc> 
+      <revisionDesc> <change when="2020-01-31">Vincas Grigas added header</change>  </revisionDesc> </teiHeader>
   <text>
       <body>
 	  <div type="chapter">
