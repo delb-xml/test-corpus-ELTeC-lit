@@ -6,7 +6,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LIT00010" xml:lang="lt">
    <teiHeader>  <fileDesc>   <titleStmt>    
       <title> Klaida : ELTeC edition  </title>    
-      <author> Pšibiliauskienė, Sofija (1867-1826)   </author>  
+      <author> Pšibiliauskienė, Sofija (1867-1926)   </author>  
       <respStmt> <resp>editor</resp>   <name>Saulius Keturakis</name>    </respStmt>   </titleStmt>   
       <extent> <measure unit="words">65961</measure>  <measure unit="pages">520</measure>    </extent>   
       <publicationStmt> <p></p>  </publicationStmt>   
