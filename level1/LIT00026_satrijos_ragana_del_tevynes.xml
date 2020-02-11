@@ -44,7 +44,7 @@
  <langUsage> <language ident="lt" usage="100"/> </langUsage>
  <textDesc> <e:authorGender key="F"/> <e:size key="short"/> <e:canonicity key="low"/> <e:timeSlot key="T4"/> </textDesc> 
  </profileDesc> 
- <revisionDesc> Arūnas Gudinavičius added header </revisionDesc> </teiHeader>
+ <revisionDesc> <change when="2020-02-10">Arūnas Gudinavičius added header </revisionDesc> </teiHeader>
  
  <text>
  <front>
