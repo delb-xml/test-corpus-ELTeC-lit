@@ -19,12 +19,12 @@
                     <revisionDesc> <change when="2020-02-10">Saulius Keturakis added header  </change></revisionDesc> </teiHeader>
 
     <text>
-        <fron> <front>
+        <front>
             <div type="titlepage">
                 <p>Vincas Pietaris </p><p>Algimantas arba lietuviai XIII šimtmetyje </p><p>Istoriška apysaka </p><p>Skaitmeninta iš knygos: Vincas Pietaris. Algimantas. Vilnius: Vaga, 1989. </p><p>ISBN 978-5-430-05932-3 </p><p>Kūrinys suskaitmenintas vykdant ES struktūrinių fondų remiamą projektą „Pagrindinio ugdymo pirmojo koncentro (5–8 kl.) mokinių esminių kompetencijų ugdymas“, 2012 </p>
                 <ref target="http://mkp.emokykla.lt/ebiblioteka/"/>
             </div>
-            </fron>
+            </front>
         <body>
         
        
