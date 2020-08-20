@@ -12,7 +12,7 @@
 <publicationStmt> <p></p>  </publicationStmt>
  <sourceDesc> <bibl type="digitalSource"> <ref target="https://www.epaveldas.lt/object/recordDescription/LNB/C1B0004124925"> Laisvės metu </ref> <publisher>Martynas Mažvydas National Library of Lithuania</publisher> </bibl> <bibl type="firstEdition"> <title>Laisvės metu</title> <publisher>Laukaičio ir b-vės spaustuvė</publisher> <pubPlace>Seinai</pubPlace> <date>1908</date> </bibl> </sourceDesc> </fileDesc>
  <encodingDesc n="eltec-1">
-        <p></p>
+        <p></p></encodingDesc>
  <profileDesc xmlns:e="http://distantreading.net/eltec/ns"> <langUsage> <language ident="lt" usage="100"/> </langUsage> <textDesc> <e:authorGender key="M"/> <e:size key="short"/> <e:reprintCount key="low"/> <e:timeSlot key="T4"/> </textDesc> </profileDesc>
  <revisionDesc><change when="2020-08-14">Vincas Grigas added title page</change>  </revisionDesc> </teiHeader>
  <text>
