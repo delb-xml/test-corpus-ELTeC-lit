@@ -3,7 +3,7 @@
  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-1.rng" type="application/xml"
  schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LIT00011" xml:lang="lt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LIT00025" xml:lang="lt">
  <teiHeader> <fileDesc> <titleStmt>
  <title>Laisvės metu : ELTeC edition </title>
  <author> Antanas Petrauskas (1881-1944) </author>
